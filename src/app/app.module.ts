@@ -10,7 +10,6 @@ import { ContactSectionComponent } from './units/contact-section/contact-section
 import { TestimonialsComponent } from './units/testimonials/testimonials.component';
 import { PartnersComponent } from './units/partners/partners.component';
 import { ServicesComponent } from './units/services/services.component';
-import { AboutComponent } from './pages/about/about.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { CarouselModule } from 'ngx-owl-carousel-o';
 
@@ -24,7 +23,6 @@ import { CarouselModule } from 'ngx-owl-carousel-o';
     TestimonialsComponent,
     PartnersComponent,
     ServicesComponent,
-    AboutComponent,
   ],
   imports: [
     BrowserModule,
