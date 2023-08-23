@@ -12,6 +12,8 @@ import { PartnersComponent } from './units/partners/partners.component';
 import { ServicesComponent } from './units/services/services.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { CarouselModule } from 'ngx-owl-carousel-o';
+import { TeamComponent } from './units/team/team.component';
+import { GalleryComponent } from './units/gallery/gallery.component';
 
 @NgModule({
   declarations: [
@@ -23,6 +25,8 @@ import { CarouselModule } from 'ngx-owl-carousel-o';
     TestimonialsComponent,
     PartnersComponent,
     ServicesComponent,
+    TeamComponent,
+    GalleryComponent,
   ],
   imports: [
     BrowserModule,
