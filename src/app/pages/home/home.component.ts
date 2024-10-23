@@ -11,7 +11,7 @@ constructor() { }
   ngOnInit(): void {
     setTimeout(() => {
       this.showModal();
-    }, 1500);
+    }, 2000);
   }
 
   showModal(): void {
