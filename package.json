@@ -20,6 +20,7 @@
     "@angular/router": "^16.1.0",
     "ngx-owl-carousel-o": "^16.0.0",
     "rxjs": "~7.8.0",
+    "sastha": "file:",
     "tslib": "^2.3.0",
     "zone.js": "~0.13.0"
   },
